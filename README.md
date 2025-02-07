@@ -13,4 +13,4 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local.
 Primero, clona el repositorio en tu máquina local usando el siguiente comando:
 
 ```bash
-git clone https://github.com/tu-usuario/tienda-react.git
+git clone https://github.com/Rebe155/Producto-react.git
